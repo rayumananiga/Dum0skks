@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rayumananiga/rayuma_hub/main/Car%20Race%20Click"))()
